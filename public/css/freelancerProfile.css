@@ -1,0 +1,639 @@
+*{margin:0; padding:0; outline: 0;}
+ul li{list-style: none;}
+dl, ol, ul {
+	margin-bottom: 1px;
+}
+html {
+  scroll-behavior: smooth;
+}
+body
+{
+	 line-height:18px;
+	font-family: Arial;
+}
+a {
+	text-decoration: none !important;
+	color: #fff;
+}
+.navbar-toggler {background-color: #fff;}
+.navbar {padding: 0px;}
+p{margin:0;}
+.header_top{ background: #05072C; }
+.navbar-barand.jobs {
+	font-size: 20px;
+	background: #359CAB;
+	padding: 13px;
+}
+.jobs,.nav-link:hover{color:#fff !important;}
+.All_sos a:hover{color:#fff;}
+.All_sos {margin-left: 165px;margin-top: 10px;font-size: 20px;}
+.or, .signin, .signup {
+	margin-left: -6px;
+	background: #359CAB;
+	padding: 13px 8px;
+}
+.or{padding-left: 0px !important;padding-right: 0px !important;}
+.nav-item {font-size: 1.5rem;padding-right: 26px;}
+.nav-item:last-child{ padding-right: 0px; }
+.fa.fa-google.goggle:hover {color: #FBBC05;}
+.fa.fa-facebook.fb:hover {color: #094ff4;}
+.fa.fa-youtube-play.playu:hover {color: #FF0000;}
+.fa.fa-phone.pcel:hover {color: #5DFF02;}
+.lang {
+	margin-top: 7px;
+	background: #fff;
+	margin-bottom: 8px;
+	padding-top: 2px;
+}
+.lang a{
+	color: #000 !important;
+	font-size: 16px;
+	padding: 0 !important;
+	margin:4px 13px;
+	display: inline-block;
+}
+.lang li .bang:hover{color: #000 !important;}
+ .lang li .Eng{background: #000 !important; color: #fff !important;}
+}
+
+.bang{font-size: 1.0rem;}
+.Eng{font-size: 1.0rem;}
+
+
+
+
+.my_img a{color: #000;}
+.my_img a:hover{color: #000 !important;}
+
+.dropdown-menu {min-width: 13rem;}
+.dropdown-item {padding: 0.5rem 1.5rem;}
+.header_bottom{background: #F1F1F1;}
+.dropdown-menu a:hover{color: #000 !important; background: #fff; cursor: pointer;}
+.dropdown-toggle {
+	border: 0;
+	background: #fff;
+	padding: 35px 10px 35px 10px;
+	font-size: 18px;
+	margin-left: 63px;
+}
+
+
+/*       header part end          */
+
+
+/*       FREELANCER PART START     */
+.freelacerpagr{
+	font-family: arial;
+}
+.freelancerprofile{
+	box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.10);
+}
+.profilepic img{
+width: 174px;
+border-radius: 100%;
+box-shadow: 0px 0px 10px 0px
+rgba(0,0,0,0.15);
+border: 3px solid
+#ffffff;
+}
+.freelancerbio h2{
+	color:#333;
+	font-size:30px ;
+	margin-bottom: 0px;
+}
+.freelancerbio small{
+	color:#3c4c57;
+	font-size: 16px;
+}
+.freelancerbio p{
+	color:#333;
+	font-size: 14px;
+	margin-top:16px;
+}
+
+.socialiconbox ul a{
+	color:#fff;
+	height: 35px;
+	width: 35px;
+	text-align: center;
+	border-radius: 100%;
+	padding-top:10px;
+	font-size: 15px;
+	margin-right:5px;
+}
+.socialiconbox ul a:hover{
+	color:#000;
+	background-color: #fff !important;
+	border:1px solid #218838;
+}
+
+.buttonnn a{
+	border-radius: 20px;
+	font-weight: 600;
+}
+.buttonnn a:hover{
+	background-color: #fff;
+	border:1px solid #218838;
+	color:#218838;
+
+}
+.freelancerdescription, .freelanceredu, .experties, .portfolio, .honaward{
+	box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.10);
+}
+.freelancerdescription h2{
+	font-size: 20px !important;
+margin-bottom: 0px;
+font-weight: 600;
+color:#333;
+letter-spacing: 1.1px;
+line-height: 50px;
+}
+.freelancerdescription p{
+	font-size: 15px;
+	font-weight: 300px;
+	margin-bottom: 15px;
+	line-height: 28px;
+	letter-spacing: 0.8px;
+	color: #999;
+}
+.freelanceredu h2{
+	font-size: 20px !important;
+margin-bottom: 0px;
+font-weight: 600;
+color:#333;
+letter-spacing: 1.1px;
+line-height: 50px;
+}
+.edudetails, .awarddetails{
+	margin-left: 59px;
+}
+.innermargin i{
+	color:#218838;
+}
+.edudetails p, .awarddetails p{
+	font-size: 15px;
+	font-weight: 300px;
+	margin-bottom:-10px;
+	color:#999;
+	letter-spacing: 0.8px;
+	
+}
+.experties h2, .portfolio h2, .honaward h2{
+font-size: 20px !important;
+margin-bottom: 0px;
+font-weight: 600;
+color:#333;
+letter-spacing: 1.1px;
+line-height: 50px;
+}
+.experties .skills li{
+	list-style: none;
+	margin-top: 9px;
+}
+.experties .skills h3{
+	width:100%;
+	color:#333;
+	font-size: 14px !important;
+	text-transform: uppercase;
+	margin-bottom: 9px;
+}
+.bar{
+	height:40px;
+	width:100%;
+	background-color: #E4E8E9;
+	display: inline-block;
+}
+.bar span{
+background-color:#102F51;
+opacity: 1;
+height: 40px;
+float: left;
+}
+.html{
+	width: 90%;
+	animation: html 3s;
+}
+.wordpress{
+	width: 80%;
+	animation: wordpress 3s;
+}
+.javascript{
+	width: 85%;
+	animation: javascript 3s;
+}
+.jquery{
+	width: 90%;
+	animation: jquery 3s;
+}
+.php{
+	width: 80%;
+	animation: php 3s;
+}
+.mysql{
+	width: 75%;
+	animation: mysql 3s;
+}
+.innertext{
+	border-right:5px solid #FFC107;
+	color:white;
+	font-weight: bold;
+	font-size: 14px;
+	text-align: right;
+	line-height: 40px;
+	padding-right:10px;
+}
+
+
+@keyframes html{
+	0%{
+		width:0%;
+	}
+	100%{
+		width:90%;
+	}
+}
+@keyframes wordpress{
+	0%{
+		width:0%;
+	}
+	100%{
+		width:80%;
+	}
+}
+@keyframes javascript{
+	0%{
+		width:0%;
+	}
+	100%{
+		width:85%;
+	}
+}
+@keyframes jquery{
+	0%{
+		width:0%;
+	}
+	100%{
+		width:90%;
+	}
+}
+@keyframes php{
+	0%{
+		width:0%;
+	}
+	100%{
+		width:80%;
+	}
+}
+@keyframes mysql{
+	0%{
+		width:0%;
+	}
+	100%{
+		width:75%;
+	}
+}
+.portfolioimg img{
+	width: 100%;
+height: 100%;
+}
+.candview h2, .contact_form h2{
+
+line-height: 24px;
+font-weight: 700;
+font-style: normal;
+color:
+#333;
+font-size: 20px;
+}
+
+.candinfo i{
+	color:#0caa41;
+	font-size: 45px;
+}
+
+.candinfo small{
+color:#999;
+font-size: 14px;
+}
+.candinfo p{
+	font-size: 16px;
+	color:#000;
+}
+.contact_form_body label {
+	font-size: 14px;
+	color: #3e3d3d;
+}
+.contact_form_body input{
+	font-size:12px;
+	color:#999;
+	height:40px;
+}
+.contact_form_body textarea{
+	font-size:12px;
+	color:#999;
+}
+.contact_form_body p a{
+	color:#0caa41 !important;
+	font-size: 12px;
+}
+.contact_form_body p a:hover{
+	color:#ffc107 !important;
+}
+.contact_form_body p{
+	font-size: 12px;
+	color:#999;
+	margin-left:30px;
+	text-align: center;
+	letter-spacing: 0.8px;
+
+}
+.contact_form_body input{
+	margin-left: 0px;
+
+}
+.send_now_button a{
+	font-size: 18px;
+	text-transform: uppercase;
+}
+.send_now_button a:hover {
+	background-color: #fff;
+	border:1px solid #0caa41;
+	color:#0caa41;
+}
+@media(max-width: 1199px){
+	.buttonnn a{
+		font-size: 13px;
+	}
+}
+@media(max-width: 991px){
+	.profilepic img{
+		
+	}
+	.freelancerbio .freelancerbio_body{
+		margin-left:30px; !important;
+		display: block;
+	}
+}
+@media(max-width:575px){
+	.socialiconbox{
+		margin-top: 20px;
+	}
+	.innermargin h2{
+		font-size:18px;
+	}
+}
+@media (max-width:767px){
+	.innermargin h2{
+		letter-spacing: 0px !important;
+	}
+}
+@media(max-width: 530px){
+	.innermargin{
+		margin-top:30px !important;
+		padding:10px !important;
+	}
+	.innermargin h2{
+		font-size:16px !important;
+	}
+	.edudetails .awarddetails{
+		margin-left:30px !important;
+
+	}
+	.awarddetails{
+		margin-left:30px !important;
+
+	}
+}
+
+/*       FREELANCER PART END     */
+
+
+
+
+
+
+
+
+
+
+/* footer-section start here */
+#footer{
+	background-color:#05072c;
+	color:white;
+	width:100%;
+	padding-top: 80px;
+	padding-bottom: 40px;
+height: auto;
+}
+ .part-1{
+	display:block;
+	width:23%;
+	float:left;
+	
+	
+}
+ .part-2{
+	display:block;
+	float:left;
+	width:23%;
+	margin:0px 0px 0px 0px;
+	
+}
+
+.new{ 
+margin-left:100px;
+}
+.new h1{
+	background:#fcb315;
+	width:60px;
+	height:20px;
+	border-radius:60%;
+	color:white;
+	font-size:12px;
+	text-align:center;
+}
+.part-3{
+	display:inline-block;
+	width: 23%;
+
+	
+	
+}
+.part-4{
+	float:right;
+	width: 23%;
+	margin:auto;
+	
+	
+} 
+
+.footer_icon a {
+	font-size: 14px;
+	text-decoration: none;
+	color: white;
+	line-height: 23px;
+}
+
+.apple img{
+	width:70px;
+	margin-left:100px;
+margin-bottom:3px;	
+}
+.apple1 img{
+	width:70px;
+	margin-left:100px;	
+}
+
+.footer-last p span img{
+	width: 30px;
+	margin:-7px 3px;
+}
+
+@media(max-width:991px){
+	.pay {
+	width: 100% !important;
+}
+}
+@media(max-width:575px){
+	.pay p{
+	
+	font-size: 16px;
+	}
+}
+@media(max-width:5264px){
+	.pay p {
+	font-size: 12px;
+	line-height: 3.5em;
+}
+}
+@media (max-width:992px) {
+	.new{
+		margin-left: 75px;
+	}
+}
+@media (max-width:767px) {
+	.new{
+		margin-left: 50px;
+	}
+}
+@media (max-width:768px){
+	#footer .appimg img{
+		margin-left:0px;
+	}
+	.footer-last p{
+		margin-top:40px;
+	}
+}
+@media(max-width:360px){
+	.footer-last p{
+		margin-top:145px;
+	}
+}
+/*       sazzad        */
+
+/*  Responsives part  */
+
+@media (max-width:1199px )
+ {
+     
+
+
+ }
+
+/*  medium device (portrait phone)       */
+
+ @media (max-width:991px )
+ {
+
+.text_r h2 {margin-top: 27px;font-size: 26px;}
+.logo_r {width: 60% !important;margin-top: 1px;}
+.dropdown-toggle {padding: 30px 10px 30px 10px;}
+
+.All_sos {margin-left: 75px;}
+.nav-item {padding-right: 15px;}
+.logo_r {width: 60% !important;margin-top:-1px;}
+
+
+
+ }
+ 
+ /*  small device (portrait phone)       */
+
+ @media (max-width:767px )
+ {
+
+.All_sos {margin-left: 270px;margin-top: -33px;}
+.lang {margin-right: 364px;}
+.nav-item:first-child{ padding-top: 15px; }
+.nav-item:last-child {padding-right: 0px;padding-top: 5px !important;}
+.nav-item {padding-top: 8px;}
+.dropdown-toggle {padding: 31px 10px 31px 10px;}
+.logo_r {width: 67% !important;}
+.counter {display: none;}
+.banner-img img {
+	margin-top: -64px;
+	margin-left: 38px;
+	height: 269px;
+	margin-bottom: 2px;
+}
+.banner-text h2 {margin-left: 200px;}
+.searchform input[type="text"] {width: 43%;}
+.searchform select {margin-left: 6px;width: 40% !important;
+}
+.searchform input[type="submit"] {
+	margin-left: 6px;
+	margin-top: 0;
+	width:auto;
+}
+.category-job .row:nth-child(2n+1){background: none;}
+.text {
+	margin-left: 30px;
+	margin-top: 6px;
+}
+
+
+
+}
+
+
+@media (max-width:575px )
+ {
+
+.navbar-barand.jobs {font-size: 16px;padding: 7px;}
+.All_sos {margin-left: 69px;margin-top: -33px;}
+.All_sos {
+	margin-left: 124px;
+	margin-top: -26px;
+	font-size: 16px;
+}
+.or, .signin, .signup {
+	margin-left: -6px;
+	background: #359CAB;
+	padding: 8px 5px;
+}
+.logo_r {
+	width: 36% !important;
+}
+
+.dropdown, .dropleft, .dropright, .dropup {display: none;}
+.job img {margin-left: 35%;}
+
+
+
+
+ }
+
+
+
+ @media (max-width:320px ){
+.navbar-barand.jobs {font-size: 14px;}
+.All_sos {margin-top: -25px;font-size: 14px;margin-left: 60px;}
+.banner-right {display: none;}
+.banner_inner {min-height: 290px;}
+.home_banner_area {min-height: 290px;}
+.job img {margin-left: 20%;}
+
+ }
+
+
+
